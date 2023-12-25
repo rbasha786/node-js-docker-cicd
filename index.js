@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
                     padding: 50px;
                 }
             </style>
-            <title>Welcome to Riyaz's Channel ,Please share & subscribe , Thank you </title>
+            <title>Welcome to Riyaz's Channel ---> Please share & subscribe , Thank you </title>
         </head>
         <body>
             <h1>Welcome to Riyaz's World <3 </h1>
